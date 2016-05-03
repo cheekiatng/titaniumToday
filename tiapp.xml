@@ -70,5 +70,5 @@
 		<target device="mobileweb">true</target>
 		<target device="windows">true</target>
 	</deployment-targets>
-	<sdk-version>5.3.0.v20160502145620</sdk-version>
+	<sdk-version>5.4.0</sdk-version>
 </ti:app>
